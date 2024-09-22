@@ -4,5 +4,4 @@ Material for the JHU course: Elements of Macroeconomics - TA section 1 & 3
 - Email: qfang6@jhu.edu
 - TA Material: https://github.com/QingyuanFang/TA_ElementsOfMacro/
 - Homework questions: https://forms.gle/4SwezrXyqzeqBGtA8
-- Office hour: Monday, 10:30 - 11:30am, Wyman Park Building W601D
-               OR: by appointment
+- Office hour: Monday, 10:30 - 11:30am, Wyman Park Building W601D; or by appointment
