@@ -1,4 +1,4 @@
-Material for the JHU course: Elements of Macroeconomics - TA section 1 & 3
+Material for the JHU course: Elements of Macroeconomics - TA section 
 
 - Qingyuan (pronounced as ``Ching Yoo-ahn'') Fang. He/Him/His
 - Email: qfang6@jhu.edu
